@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h2{
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 34px;
+    color: blanchedalmond;
+    background: rgb(155, 116, 26);
+}
+#name{
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+/* #submit_btn{
+    display: block;
+    margin: 20px auto;  
+    width: 80px;  
+    height: 40px; 
+    font-size: 20px;
+    border-radius: 10px;
+} */
+#result{
+    /* width: 400px; */
+    margin: 30px auto;
+    text-align: center;
+    color: darkgoldenrod;
+    background: rgb(40, 31, 31);
+    /* padding: 0 510px; */
+    /* border: 1px solid red; */
+}
+#number{
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#grade{
+    margin: 30px auto;
+    text-align: center;
+    color: darkgoldenrod;
+    background: rgb(40, 31, 31);
+}
+#oddeven {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#select_number {
+    margin: 30px auto;
+    text-align: center;
+    color: darkgoldenrod;
+    background: rgb(40, 31, 31);
+}
